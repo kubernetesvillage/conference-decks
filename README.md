@@ -17,3 +17,7 @@ If you’ve presented at **Kubernetes Village** and would like to share your sli
 
 📌 [**Anjali's Repo Link:**](https://github.com/peachycloudsecurity/conference-meetup-doc)]  
 
+## Visit
+- [Kubernetes Village](https://www.kubernetesvillage.com/)
+- [EKS Goat: AWS EKS Security Workshop](https://ekssecurity.kubernetesvillage.com/)
+
