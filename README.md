@@ -15,5 +15,5 @@ This repo contains **presentation slides** from Kubernetes Village sessions held
 ## 📩 **Want to Contribute?**  
 If you’ve presented at **Kubernetes Village** and would like to share your slides, feel free to **submit a PR** or email us at **kubernetesvillage@gmail.com**.  
 
-📌 **Anjali's Repo Link:** [[Placeholder - Add GitHub Link](https://github.com/peachycloudsecurity/conference-meetup-doc)]  
+📌 [**Anjali's Repo Link:**](https://github.com/peachycloudsecurity/conference-meetup-doc)]  
 
