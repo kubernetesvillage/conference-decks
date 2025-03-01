@@ -9,7 +9,8 @@ This repo contains **presentation slides** from Kubernetes Village sessions held
 - [**Conference 2023**](https://github.com/kubernetesvillage/conference-decks/tree/main/2023)
 - [**Conference 2024**](https://github.com/kubernetesvillage/conference-decks/tree/main/2024)
 - [**Conference 2025**](https://github.com/kubernetesvillage/conference-decks/tree/main/2025)
-  - [**Seasides Goa 2025**]()
+  - [**Seasides Goa 2025**](https://github.com/kubernetesvillage/conference-decks/tree/main/2025/seasides-goa)
+    - [**Unchaining the container by Aashita Pandey**]  (https://ashifly.medium.com/attack-surface-exploiting-misconfigured-container-registries-fcc4e964a902)
 
 
 ## 📩 **Want to Contribute?**  
